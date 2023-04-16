@@ -1,0 +1,5 @@
+
+Cantidad personas: 2
+Cantidad vehiculos: 3
+Cantidad empresas: 2
+Capital: $219.526.206.460

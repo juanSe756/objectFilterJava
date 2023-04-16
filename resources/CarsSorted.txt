@@ -1,0 +1,4 @@
+
+Plate:DAW206, model:2019, color:Azul, typeCar:Mecanico
+Plate:AFC203, model:2000, color:Rojo, typeCar:Mecanico
+Plate:MNB103, model:1987, color:Verde, typeCar:Automatico
